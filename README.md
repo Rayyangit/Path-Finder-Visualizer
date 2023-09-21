@@ -1,5 +1,5 @@
 # Path-Finder-Visualizer
-Certainly, here's a technical description of a path-finding visualizer implemented using Depth-First Search (DFS), Breadth-First Search (BFS), and A* search algorithms:
+
 
 **Title: Path-Finding Visualizer with DFS, BFS, and A* Algorithms**
 
